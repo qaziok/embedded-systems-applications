@@ -1,0 +1,4 @@
+git checkout -b <branch_name>
+git add -A
+git commit -am "commit message"
+git push -u orgin <branch_name>
